@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+h2{
+    font-size: xx-large; 
+    text-decoration: underline;
+    text-align: center;
+}
+h3{ 
+    text-align: center;
+    color: darkslategray;
+}
+h4{
+    text-align: center;
+    font-size: xx-large; 
+    text-decoration: underline;
+}
+.image{
+    display: inline-block;
+    justify-content:center;
+}  
+table,th, td {
+    margin: auto;
+    font-size: large;
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+a{
+    justify-content: center;
+}
+address{
+    text-align: end;
+    text-decoration: underline;
+}
+body{
+    background-color: rgba(0, 199, 205,0.3);
+}
