@@ -38,7 +38,7 @@ Die Website ist über Netlify deployed und live erreichbar:
 ```
 Katzen-Website/
 ├── index.html        # Hauptseite
-├── style.css         # Stylesheet (falls vorhanden)
+├── style.css         # Stylesheet 
 └── README.md         # Diese Datei
 ```
 
